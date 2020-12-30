@@ -288,10 +288,6 @@ section {
   text-transform: capitalize;
   text-align: center;
 }
-
-/* #p {
-  letter-spacing: 3px;
-} */
 @media (max-width: 1000px) {
   body {
     background-repeat: repeat-y;
