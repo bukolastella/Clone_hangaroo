@@ -283,6 +283,11 @@ section {
   font-weight: lighter;
   font-family: cursive;
 }
+.buks {
+  /* color: white; */
+  text-transform: capitalize;
+  text-align: center;
+}
 
 /* #p {
   letter-spacing: 3px;
