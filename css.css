@@ -15,7 +15,7 @@ body {
 /* rgb(196, 86, 52) */
 
 section {
-  width: 100%;
+  width: 600px;
   margin: auto;
   margin-top: 20px;
   border-radius: 20px;
@@ -291,9 +291,9 @@ section {
   body {
     background-repeat: repeat-y;
   }
-  /* section {
+  section {
     width: 500px;
-  } */
+  }
   .middle {
     padding: 15px;
     margin: 0px 0px 0px 10px;
